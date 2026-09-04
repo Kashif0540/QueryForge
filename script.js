@@ -1,5 +1,5 @@
 /* ============================================================================
-   QueryForge — Schema-Aware SQL Generator
+   QueryForge — Schema-Aware SQL 
    ----------------------------------------------------------------------------
    This file has three responsibilities:
      1. Call the Groq API (chat completions, JSON object mode) to turn a
